@@ -22,9 +22,9 @@ public class DataTypes {
         */
         System.out.println("--- Ponto Flutuante (double) ---");
         // By default, numbers with a decimal point are 'double'
-        System.out.println(1.3);
-        System.out.println(-1.3);
-        System.out.println(2.1);
+        System.out.println(1.33);
+        System.out.println(-1.37);
+        System.out.println(2.12);
 
         System.out.println("--- Ponto Flutuante (float) ---");
         // For 'float', we need to add an 'f' at the end
