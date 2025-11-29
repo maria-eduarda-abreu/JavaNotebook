@@ -6,12 +6,21 @@ the message: "Hello 'name the person' you are 'X' years old"
  */
 
 package basic.exercice.JavaFundamental;
+import java.util.Scanner;
 
 public class Ex1 {
-    public static void main(String[] args) {
 
-        String name = "Doda"; //string for the name th person
-        byte age = 20; //integers variable byte have 8 bits --> -128 / 127 the basic for memorise the age the person
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        String name; //string for the name th person
+        int age; //integers variable byte have 8 bits --> -128 / 127 the basic for memorise the age the person
+        
+        System.out.println("Whats your name? ");
+        name = input.nextLine();
+        
+        System.out.println("Whats your age? ");
+        age = input.nextInt();
         
         System.out.println("Hello " + name +", you are " + age + " years old."); // this is the output of program
     }
