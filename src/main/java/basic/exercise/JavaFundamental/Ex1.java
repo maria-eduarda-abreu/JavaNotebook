@@ -5,7 +5,7 @@ the message: "Hello 'name the person' you are 'X' years old"
 
  */
 
-package basic.exercice.JavaFundamental;
+package basic.exercise.JavaFundamental;
 import java.util.Scanner;
 
 public class Ex1 {

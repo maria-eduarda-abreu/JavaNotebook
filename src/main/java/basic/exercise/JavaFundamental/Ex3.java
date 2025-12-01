@@ -3,7 +3,7 @@ Write a code reception the base and height of the rectangle, calculete your áre
 
 formula: area=base X height
  */
-package basic.exercice.JavaFundamental;
+package basic.exercise.JavaFundamental;
 import java.util.Scanner;
 
 public class Ex3 {

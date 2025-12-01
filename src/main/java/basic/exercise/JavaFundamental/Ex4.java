@@ -1,6 +1,6 @@
-//Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas
+//Write a code reception one name and the age of two peoples and output the age ddifference between them
 
-package basic.exercice.JavaFundamental;
+package basic.exercise.JavaFundamental;
 import java.util.Scanner;
 
 public class Ex4 {

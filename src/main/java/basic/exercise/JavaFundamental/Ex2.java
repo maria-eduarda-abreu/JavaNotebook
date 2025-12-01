@@ -3,7 +3,7 @@ Write a code reception the size of the square side, calculate its area and show 
 
 Form: area=side X side
  */
-package basic.exercice.JavaFundamental;
+package basic.exercise.JavaFundamental;
 
 import java.util.Scanner; // Import scanner tools
 import java.text.DecimalFormat; // Import formart tools
